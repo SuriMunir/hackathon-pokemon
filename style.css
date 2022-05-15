@@ -1,0 +1,33 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.data-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.card-width {
+  width: 21rem;
+}
+
+.pokemon-img {
+  width: 10rem;
+  margin: 0 auto;
+}
+
+.card-single {
+  width: 90vw;
+}
+
+.img-single {
+  width: 20rem;
+}
+
+small {
+  text-transform: capitalize;
+}
